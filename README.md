@@ -5,17 +5,24 @@
 
 The Matrix Operations Tool is a Python-based GUI application built using tkinter and numpy. It allows users to perform various matrix operations, such as:
 -Addition
+
 -Subtraction
+
 -Multiplication
+
 -Transpose
+
 -Determinant
 
 Users can input custom matrix dimensions and values, and the application will compute the results accordingly.
 
 ### Features:
 -Dynamic Input Fields: Users specify matrix dimensions, and input fields are generated dynamically.
+
 -Error Handling: Proper validation and error messages ensure valid inputs.
+
 -Interactive GUI: Simple and intuitive interface using tkinter.
+
 -Matrix Calculations: Supports common matrix operations with real-time feedback.
 
 
